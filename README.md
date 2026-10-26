@@ -40,7 +40,7 @@ Connected to the server 127.0.0.1
 Enter message: Hello, Server!
 Server replied: Hi, Client!
 
-##🔐 Security Considerations (Cybersecurity Relevance)
+## 🔐 Security Considerations (Cybersecurity Relevance)
 - ⚠ Avoid sending sensitive data in plaintext (use encryption like TLS).
 - ⚠ Prevent buffer overflow attacks by limiting input size.
 - ⚠ Sanitize input to prevent command injection (if implementing a reverse shell).
